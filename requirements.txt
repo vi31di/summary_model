@@ -1,0 +1,12 @@
+transformers
+datasets==3.6.0
+fsspec==2025.3.0
+gcsfs==2025.3.0
+sacrebleu
+rouge_score
+nltk
+evaluate
+torch
+fastapi
+uvicorn
+python-multipart 
